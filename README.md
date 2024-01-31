@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm AYUSH PANDEY</h1>
 <h3 align="center">👋 Hello World! I'm Ayush Pandey, a passionate first-year Computer Science student exploring the fascinating world of programming and software development. 💻</h3>
 
-<img align=“right”  alt=“coding” width=“400” src=“https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif”>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushpandey1718&label=Profile%20views&color=0e75b6&style=flat" alt="ayushpandey1718" /> </p>
 
