@@ -10,8 +10,7 @@
 - 🔭 I’m currently studing **in SRM INSTITUTE OF SCIENCE AND TECHNOLOGY**
 
 - 📫 How to reach me **pandeyayush1718@gmail.com**
-
-- ⚡ Fun fact: NOTHING JUST A GOOD BOY 😎😉
+🫶🏻
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
