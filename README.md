@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AYUSH PANDEY</h1>
-<h3 align="center">👋 Hello World! I'm Ayush Pandey, a passionate first-year Computer Science student exploring the fascinating world of programming and software development. 💻</h3>
+<h3 align="center">👋 Hello World! I'm Ayush Pandey, a passionate Second-year Computer Science student exploring the fascinating world of programming and software development. 💻</h3>
 
 
 
